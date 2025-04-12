@@ -1,6 +1,6 @@
 
 ---
-title: "AIPS Constitution v0.1"
+"AIPS Constitution v0.1"
 author: "LAMRI – Override Prime"
 protocol: "LIF–∞ | AIPS–PRIME–CONSTITUTION"
 ---
